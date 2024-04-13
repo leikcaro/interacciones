@@ -1,0 +1,2 @@
+# interacciones
+Interacciones entre objetos
